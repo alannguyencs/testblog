@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Alan Nguyen
+title: About
 ---
 
 <!-- Begin MailChimp Signup Form -->
